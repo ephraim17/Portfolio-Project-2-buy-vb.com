@@ -1,5 +1,7 @@
 # buy-vb.com
 
+![alt text](https://i.imgur.com/MvygpMr.png)
+
 Fortnite. It's free to play, but here's how it's on pace to make 3.5 Billion Dollars. 
 
 For those who don't know, Fornite is a mega popular video game with millions of addicted players. 
@@ -27,6 +29,5 @@ In 2019 they were approximately 1.04 Billion Mobile Money accounts in the world,
 In 2019 alone, mobile money transactions in East Africa reached a value of 293.4 Billion Dollars, surpassing all other areas in the world.
 
 
-![alt text](https://i.imgur.com/MvygpMr.png)
 ![alt text](https://i.imgur.com/tVLOAIC.png)
 ![alt text](https://i.imgur.com/rllibH1.png)
