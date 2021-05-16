@@ -27,7 +27,9 @@ They were approximately 1.04 Billion Mobile Money accounts in 2019, with most us
 
 In 2019 alone, Mobile Money transactions in East Africa reached a value of 293.4 Billion Dollars in annual revenue.
 
-Watch this video to learn more about Mobile Money https://www.youtube.com/watch?v=777Tj-x2RNU
+Ref
+1. "How Big is Mobile Money in Africa?" https://www.youtube.com/watch?v=777Tj-x2RNU
+2. "How Fortnite Makes Money | CNBC" https://www.youtube.com/watch?v=nYzPyIAKeYo&t=60s
 
 
 ![alt text](https://i.imgur.com/tVLOAIC.png)
