@@ -27,6 +27,9 @@
 
 - In 2019 alone, Mobile Money transactions in East Africa reached a value of 293.4 Billion Dollars in annual revenue.
 
+
+[Click the link to visit the website!](https://buy-vbb.myshopify.com/ "buy-vb.com's Homepage")
+
 Ref
 1. "How Big is Mobile Money in Africa?" https://www.youtube.com/watch?v=777Tj-x2RNU
 2. "How Fortnite Makes Money | CNBC" https://www.youtube.com/watch?v=nYzPyIAKeYo&t=60s
