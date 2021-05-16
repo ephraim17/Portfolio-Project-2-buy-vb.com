@@ -40,3 +40,6 @@ References
 
 ![alt text](https://i.imgur.com/tVLOAIC.png)
 ![alt text](https://i.imgur.com/rllibH1.png)
+
+![Image of SA-MP-translate.com Instagram page](https://i.imgur.com/IrJny4M.png)
+![Click the link to visit the Instagram Page!](https://www.instagram.com/buy.vb/ "buy-vb.com's Instagram Page")
