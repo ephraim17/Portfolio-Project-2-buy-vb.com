@@ -1,4 +1,7 @@
+![Fortnite](https://blog.logomyway.com/wp-content/uploads/2021/01/fortnite-logo-1024x324.jpg)
+
 # buy-vb.com
+
 
 ![alt text](https://i.imgur.com/MvygpMr.png)
 
