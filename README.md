@@ -30,10 +30,11 @@
 
 [Click the link to visit the website!](https://buy-vbb.myshopify.com/ "buy-vb.com's Homepage")
 
-Ref
+References
 1. "How Big is Mobile Money in Africa?" https://www.youtube.com/watch?v=777Tj-x2RNU
 2. "How Fortnite Makes Money | CNBC" https://www.youtube.com/watch?v=nYzPyIAKeYo&t=60s
 3. "Epic made $15 BILLION in revenue from Fortnite | Dot Esports" https://www.youtube.com/watch?v=xf1pUCl0WLk
+4. "Fortnite: How to make $2 Billion in 18 months using culture" https://www.youtube.com/watch?v=DPDMrQtyOvg
 
 
 ![alt text](https://i.imgur.com/tVLOAIC.png)
