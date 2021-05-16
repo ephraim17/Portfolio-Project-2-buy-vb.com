@@ -21,11 +21,11 @@ It'll also let you buy the Battle Pass, which is a way to unlock in-game rewards
 
 The purpose of buy-vb.com is to give players a way to buy V-bucks using Mobile Money.
 
-Mobile Money is an electronic financial service that allows customers to make money transfer services, payments and deposits of money to an account on their mobile phones.
+Mobile Money is an electronic financial service that allows customers to make money transfer services such as payments and deposits to an account on their mobile phones.
 
-In 2019 they were approximately 1.04 Billion Mobile Money accounts globally, with most users coming from East Africa.
+They were approximately 1.04 Billion Mobile Money accounts in 2019, with most users coming from East Africa.
 
-In 2019 alone, mobile money transactions in East Africa reached a value of 293.4 Billion Dollars, surpassing all other areas in the world.
+In 2019 alone, Mobile Money transactions in East Africa reached a value of 293.4 Billion Dollars in annual revenue.
 
 
 ![alt text](https://i.imgur.com/tVLOAIC.png)
