@@ -6997,10 +6997,14 @@ hr {
 .store-availability-list__phone {
   margin-bottom: 0; }
 
-  .site-nav__label, .filters-toolbar, .h1, h1, .FilterTags, .Collection, .h4, h1, .grid-view-item__title, .product-card__title   {
+  .site-nav__label, .filters-toolbar, .h1, h1, .FilterTags, .Collection, .h4, h1, .grid-view-item__title, .product-card__title, .btn, .newsletter__submit, .price {
     font-family: 'Luckiest Guy', cursive !important;
   }
 
+  .btn, .newsletter__submit {
+    background-color: #ff0 !important;
+    color: black;
+  }
 
 
 
