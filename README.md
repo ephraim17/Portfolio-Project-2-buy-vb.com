@@ -38,7 +38,7 @@ References
 5. "Mobile money transactions reach over 2 million daily" - https://www.youtube.com/watch?v=qGWvwVFTU3M
 
 
-![alt text](https://i.imgur.com/tVLOAIC.png)
+![alt text](https://businesszoneonline.com/wp-content/uploads/2021/04/SOTIR-2021-highlights.png)
 ![alt text](https://i.imgur.com/rllibH1.png)
 
 ![Image of SA-MP-translate.com Instagram page](https://i.imgur.com/IrJny4M.png)
