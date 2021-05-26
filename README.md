@@ -39,7 +39,7 @@ References
 
 
 ![alt text](https://businesszoneonline.com/wp-content/uploads/2021/04/SOTIR-2021-highlights.png)
-![alt text](https://i.imgur.com/rllibH1.png)
+![alt text](http://cdn.statcdn.com/Infographic/images/normal/16239.jpeg)
 
 ![Image of SA-MP-translate.com Instagram page](https://i.imgur.com/IrJny4M.png)
 ![Click the link to visit the Instagram Page!](https://www.instagram.com/buy.vb/ "buy-vb.com's Instagram Page")
