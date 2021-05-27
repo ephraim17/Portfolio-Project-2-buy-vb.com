@@ -19,6 +19,8 @@
 - V-Bucks, let's you buy cosmetic items for your in-game character.
 - It'll also let you buy the Battle Pass, which is a way to unlock in-game rewards.
 
+- So how's buy-vb.com making money from Fortnite?
+
 - The purpose of buy-vb.com is to give players a way to buy V-bucks using Mobile Money.
 
 - Mobile Money is an electronic financial service that allows customers to make money transfer services such as payments and deposits to an account on their mobile phones.
@@ -26,6 +28,8 @@
 - They were approximately 1.04 Billion Mobile Money accounts in 2019, with most users coming from East Africa.
 
 - In 2019 alone, Mobile Money transactions in East Africa reached a value of 293.4 Billion Dollars in annual revenue.
+
+- The people who use Mobile Money to buy from us either don't have a visa card or they just find it more convenient to use their Mobile Money account.
 
 
 [Click the link to visit the website!](https://buy-vbb.myshopify.com/ "buy-vb.com's Homepage")
