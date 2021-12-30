@@ -2,5 +2,5 @@ This website was built with the purpose of helping players buy V-Bucks using mob
 
 V-Bucks are a virtual currency used in the Fortnite Metaverse.
 
-![alt text](https://i.imgur.com/MvygpMr.png)
+![alt text](https://i.imgur.com/52vpaJj.jpeg)
 
