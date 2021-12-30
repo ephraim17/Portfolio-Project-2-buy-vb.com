@@ -1,49 +1,6 @@
-# buy-vb.com
+This website was built with the purpose of helping players buy V-Bucks using mobile money.
+
+V-Bucks are a virtual currency used in the Fortnite Metaverse.
 
 ![alt text](https://i.imgur.com/MvygpMr.png)
 
-- Fortnite. It's free to play, but here's how it's on pace to make 3.5 Billion Dollars.
-
-- Fortnite is a mega-popular video game with millions of addicted players for those who don't know.
-
-- But, unlike other popular games like Call Of Duty, you can download Fortnite for free, and you're ready to go.
-
-- A recent estimate by data firm, Super Data, estimates that the game pulled in 296 Million Dollars in revenue in April.
-
-- Multiply that by 12, and you're looking at an estimated 3.5 Billion Dollars in annual revenue.
-
-- So how's this game making money?
-
-- People are shovelling out real cash on V-Bucks, which is Fortnite's in-game currency.
-
-- V-Bucks, let's you buy cosmetic items for your in-game character.
-- It'll also let you buy the Battle Pass, which is a way to unlock in-game rewards.
-
-- So how's buy-vb.com making money from Fortnite?
-
-- The purpose of buy-vb.com is to give players a way to buy V-bucks using Mobile Money.
-
-- Mobile Money is an electronic financial service that allows customers to make money transfer services such as payments and deposits to an account on their mobile phones.
-
-- They were approximately 1.04 Billion Mobile Money accounts in 2019, with most users coming from East Africa.
-
-- In 2019 alone, Mobile Money transactions in East Africa reached a value of 293.4 Billion Dollars in annual revenue.
-
-- The people who use Mobile Money to buy from us either don't have a visa card or they just find it more convenient to use their Mobile Money account.
-
-
-[Click the link to visit the website!](https://buy-vbb.myshopify.com/ "buy-vb.com's Homepage")
-
-References
-1. "How Big is Mobile Money in Africa?" - https://www.youtube.com/watch?v=777Tj-x2RNU
-2. "How Fortnite Makes Money | CNBC" - https://www.youtube.com/watch?v=nYzPyIAKeYo&t=60s
-3. "Epic made $15 BILLION in revenue from Fortnite | Dot Esports" - https://www.youtube.com/watch?v=xf1pUCl0WLk
-4. "Fortnite: How to make $2 Billion in 18 months using culture" - https://www.youtube.com/watch?v=DPDMrQtyOvg
-5. "Mobile money transactions reach over 2 million daily" - https://www.youtube.com/watch?v=qGWvwVFTU3M
-
-
-![alt text](https://businesszoneonline.com/wp-content/uploads/2021/04/SOTIR-2021-highlights.png)
-![alt text](http://cdn.statcdn.com/Infographic/images/normal/16239.jpeg)
-
-![Image of SA-MP-translate.com Instagram page](https://i.imgur.com/IrJny4M.png)
-![Click the link to visit the Instagram Page!](https://www.instagram.com/buy.vb/ "buy-vb.com's Instagram Page")
